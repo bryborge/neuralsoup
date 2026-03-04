@@ -1,0 +1,14 @@
+# Environment / Secrets
+.env
+.env.*
+*.local
+
+# Workspaces / Apps
+.vscode/
+.obsidian/
+
+# OS-generated / Junk
+.DS_Store
+.DS_Store?
+.Trashes
+Thumbs.db
