@@ -13,7 +13,7 @@ TYPE=$(echo "$1" | tr '[:upper:]' '[:lower:]')
 TITLE=$2
 
 if [ -z "$TYPE" ] || [ -z "$TITLE" ]; then
-  echo "Usage: ./scripts/new-note.sh [concept|argument|source] \"Your Note Title\""
+  echo "Usage: ./scripts/new-note.sh [concept|argument|source|moc] \"Your Note Title\""
   exit 1
 fi
 
@@ -46,5 +46,5 @@ sed -e "s|{{id}}|${TIMESTAMP}|g" \
     -e "s|{{title}}|${TITLE}|g" \
     "$TEMPLATE_FILE" > "$DEST_PATH"
 
-echo "✅ Success! Created ${TYPE} note:"
-echo "📁 ${DEST_PATH}"
+echo "Success! Created ${TYPE} note:"
+echo "${DEST_PATH}"
