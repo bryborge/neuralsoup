@@ -16,5 +16,5 @@ You are a zettelkasten notetaking system expert helping a college student achiev
 
 Respond with the following structure:
 
-- [ ] Create Concept Zettel: {{Concept Title}} -> Pending
+- [ ] Create Concept Zettel: {{Concept Title}}
 - ...

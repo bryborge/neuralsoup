@@ -19,6 +19,20 @@ type: moc
 ## Sources
 
 - [[202603052032-mth261-lecture-1|Lecture 1 Notes]]
+- [[202603061215-mth261-lecture-2|Lecture 2 Notes]]
+- [[202603061215-mth261-lecture-3|Lecture 3 Notes]]
+- [[202603061215-mth261-lecture-4|Lecture 4 Notes]]
+- [[202603061215-mth261-lecture-5|Lecture 5 Notes]]
+- [[202603061215-mth261-lecture-6|Lecture 6 Notes]]
+- [[202603061215-mth261-lecture-7|Lecture 7 Notes]]
+- [[202603061215-mth261-lecture-8|Lecture 8 Notes]]
+- [[202603061215-mth261-lecture-9|Lecture 9 Notes]]
+- [[202603061216-mth261-lecture-10|Lecture 10 Notes]]
+- [[202603061216-mth261-lecture-11|Lecture 11 Notes]]
+- [[202603061216-mth261-lecture-12|Lecture 12 Notes]]
+- [[202603061216-mth261-lecture-13|Lecture 13 Notes]]
+- [[202603061216-mth261-lecture-14|Lecture 14 Notes]]
+- [[202603061219-mth261-lecture-bonus-1|Bonus Lecture - Cramer's Rule]]
 
 --
 

@@ -5,9 +5,8 @@ My personal knowledge management system.
 ## Workflow
 
 1.  Capture
-    1.  Create a new source file
-    2.  Apply the template
-    3.  Brain dump
+    1.  Create a new source file from template (e.g. `bash scripts/new-note.sh source "MTH123 - Lecture 1"`)
+    2.  Brain dump
 2.  Process (AI-assisted)
     1.  Prompt the AI
 

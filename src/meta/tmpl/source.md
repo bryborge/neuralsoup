@@ -29,4 +29,4 @@ type: source
 
 *turn the raw bullet points above into atomic Zettels, check the boxes, and link them here.*
 
-- [ ] Create Concept Zettel: {{Concept Title}} -> Pending
+- [ ] Create Concept Zettel: {{Concept Title}}
