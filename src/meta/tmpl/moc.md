@@ -1,6 +1,7 @@
 ---
-id: {{id}}
-status:
+id:
+  "{ id }":
+status: draft
 type: moc
 ---
 
@@ -13,7 +14,11 @@ type: moc
 ## Core Concepts
 
 - Link 1 - Brief context
-- Link 2 - Brief context
+- ...
+
+## Sources
+
+- Link to source
 
 --
 

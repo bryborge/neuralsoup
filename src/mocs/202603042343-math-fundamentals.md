@@ -1,6 +1,6 @@
 ---
 id: 202603042343
-status: evolving
+status: draft
 type: moc
 ---
 
@@ -8,7 +8,7 @@ type: moc
 
 ## Executive Summary
 
-> Fundamental concepts in mathematics
+> Fundamental concepts in mathematics.
 
 ## Core Concepts
 
