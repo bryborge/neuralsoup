@@ -1,6 +1,5 @@
 ---
-id:
-  "{ id }":
+id: {{id}}
 status: draft
 type: moc
 ---

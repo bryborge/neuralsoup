@@ -1,8 +1,6 @@
 ---
-id:
-  "{ id }":
-title:
-  "{ title }":
+id: {{id}}
+title: {{title}}
 status: draft
 sources:
 tags:

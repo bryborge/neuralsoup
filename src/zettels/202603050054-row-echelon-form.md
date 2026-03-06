@@ -13,7 +13,7 @@ type: concept
 
 > One or two sentences explicitly defining the concept in your own words. Imagine this as the flashcard answer.
 
-## Expansion
+## Explanation
 
 A brief paragraph expanding on the nuances. What are the key properties? Who originated it? Keep it highly concise. If using an equation or formula, place it here.
 
@@ -23,6 +23,6 @@ A brief paragraph expanding on the nuances. What are the key properties? Who ori
 
 ## Connections
 
-* **Up:**
-* **Related:**
-* **Contrasts with:**
+- **Up:**
+- **Related:**
+- **Contrasts with:**

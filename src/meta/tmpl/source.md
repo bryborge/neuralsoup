@@ -1,8 +1,6 @@
 ---
-id:
-  "{ id }":
-title:
-  "{ title }":
+id: {{id}}
+title: {{title}}
 source-type:
 status: draft
 type: source
@@ -11,7 +9,7 @@ type: source
 
 ## tl;dr
 
-> A 1-2 sentence summary of the overarching lesson..
+> A 1-2 sentence summary of the overarching lesson.
 
 ## Raw
 

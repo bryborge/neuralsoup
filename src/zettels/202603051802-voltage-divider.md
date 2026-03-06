@@ -38,16 +38,16 @@ $$
 V_{out} = V_{in} \times \frac{R_2}{R_1 + R_2}
 $$
 
-## How it Works
+## Explanation
 
 The system works by placing two resistors ($R_1$ and $R_2$) in series. The output voltage ($V_{out}$) is then measured between $R_1$ and $R_2$.
 
 ## Example
 
-TBD
+<!-- TBD -->
 
 ## Connections
 
-* **Up:** [[202603051807-electrical-circuits-i|Electrical Circuits I (MOC)]]
-* **Related:**
-* **Contrasts with:**
+- **Up:** [[202603051807-electrical-circuits-i|Electrical Circuits I (MOC)]]
+- **Related:**
+- **Contrasts with:**
