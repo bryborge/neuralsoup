@@ -23,6 +23,6 @@ A brief paragraph expanding on the nuances. What are the key properties? Who ori
 
 ## Connections
 
-- **Up:**
+- **Up:** [[202603050057-linear-algebra|Linear Algebra (MOC)]]
 - **Related:**
 - **Contrasts with:**

@@ -10,10 +10,14 @@ type: moc
 
 > Covers elementary linear algebra with a focus on n-space and applications.
 
+This course was taken at [Portland Community College (PCC)](https://www.pcc.edu/).
+
 ## Core Concepts
 
-- [[202603052247-linear-equation|Linear Equation]] - An algebraic equation that represents a straight line.
+- [[202603052247-linear-equation|Linear Equations]] - An algebraic equation that represents a straight line.
 - [[202603052321-system-of-linear-equations|System of Linear Equations]] - A collection of two or more linear equations involving the same set of variables.
+- [[202603061720-consistent-system|Consistent Systems]] - A linear system with either one or infinite solutions.
+- [[202603061720-inconsistent-system|Inconsistent Systems]] - A linear system with no solution.
 - [[202603061536-solution-set|Solution Set]] - All possible solutions for a linear system as a set.
 - [[202603050054-row-echelon-form|Row Echelon Form]] - A staircase-like matrix structure used to solve linear systems of equations.
 

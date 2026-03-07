@@ -10,6 +10,8 @@ type: moc
 
 > Introduces students to basic circuit elements and circuit analysis techniques.
 
+This course was taken at [Portland Community College (PCC)](https://www.pcc.edu/).
+
 ## Core Concepts
 
 
