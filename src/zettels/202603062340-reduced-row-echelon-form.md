@@ -1,13 +1,12 @@
 ---
-id: 202603050054
-title: Row Echelon Form
+id: 202603062340
+title: Reduced Row Echelon Form
+status: draft
 sources:
 tags:
-  - mathematics
-  - linear-algebra
 type: concept
 ---
-# Row Echelon Form
+# Reduced Row Echelon Form
 
 ## Core Concept
 
@@ -19,10 +18,10 @@ A brief paragraph expanding on the nuances. What are the key properties? Who ori
 
 ## Example
 
-* Provide one concrete, real-world example or application of the concept.
+- Provide one concrete, real-world example or application of the concept.
 
 ## Connections
 
-- **Up:** [[202603050057-linear-algebra|Linear Algebra (MOC)]]
-- **Related:** [[202603062340-reduced-row-echelon-form|Reduced Row Echelon Form]]
+- **Up:**
+- **Related:**
 - **Contrasts with:**

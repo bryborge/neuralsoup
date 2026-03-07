@@ -21,7 +21,9 @@ This course was taken at [Portland Community College (PCC)](https://www.pcc.edu/
 - [[202603061959-coefficient-matrix|Coefficient Matrix]] - An array of coefficients for a given linear system of equations.
 - [[202603062031-augmented-matrix|Augmented Matrix]] - A coefficient matrix with the column vector of constants.
 - [[202603061536-solution-set|Solution Set]] - All possible solutions for a linear system as a set.
+- [[202603062330-row-equivalent-matrices|Row Equivalent Matrices]] - Two matrices with the same reduced-row echelon form.
 - [[202603050054-row-echelon-form|Row Echelon Form]] - A staircase-like matrix structure used to solve linear systems of equations.
+- [[202603062340-reduced-row-echelon-form|Reduced Row Echelon Form]] - A unique form of a matrix used to directly solve linear systems of equations.
 
 ## Sources
 
