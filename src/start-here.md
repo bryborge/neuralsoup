@@ -8,7 +8,7 @@
 
 #### Computer Science
 
-- (PCC) - CS133U: C Programming
+- (PCC) - CS133U - C Programming
 
 #### Engineering
 
