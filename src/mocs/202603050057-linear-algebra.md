@@ -18,6 +18,8 @@ This course was taken at [Portland Community College (PCC)](https://www.pcc.edu/
 - [[202603052321-system-of-linear-equations|System of Linear Equations]] - A collection of two or more linear equations involving the same set of variables.
 - [[202603061720-consistent-system|Consistent Systems]] - A linear system with either one or infinite solutions.
 - [[202603061720-inconsistent-system|Inconsistent Systems]] - A linear system with no solution.
+- [[202603061959-coefficient-matrix|Coefficient Matrix]] - An array of coefficients for a given linear system of equations.
+- [[202603062031-augmented-matrix|Augmented Matrix]] - A coefficient matrix with the column vector of constants.
 - [[202603061536-solution-set|Solution Set]] - All possible solutions for a linear system as a set.
 - [[202603050054-row-echelon-form|Row Echelon Form]] - A staircase-like matrix structure used to solve linear systems of equations.
 
