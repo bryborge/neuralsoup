@@ -21,4 +21,4 @@ type: moc
 
 --
 
-Back to Index
+Back to [[start-here|Index]]

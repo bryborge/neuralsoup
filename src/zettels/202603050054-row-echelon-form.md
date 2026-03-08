@@ -11,15 +11,26 @@ type: concept
 
 ## Core Concept
 
-> One or two sentences explicitly defining the concept in your own words. Imagine this as the flashcard answer.
+> Row echelon form is a specific, inverted staircase-pattern matrix where:
+>
+>   1. all nonzero rows are above any rows of all zeros, and
+>   2. zeros are below all leading entries.
+>
+> In this form, a solution for the [[202603052321-system-of-linear-equations|linear system]] that the matrix represents can be found efficiently.
 
 ## Explanation
 
-A brief paragraph expanding on the nuances. What are the key properties? Who originated it? Keep it highly concise. If using an equation or formula, place it here.
+A matrix can be put into this form by using [[202603062350-elementary-row-operations|elementary row operations]] via Gaussian elimination.
 
 ## Example
 
-* Provide one concrete, real-world example or application of the concept.
+$$
+\begin{bmatrix}
+1 & 2 & -1 & 3 \\
+0 & 1 & 4 & -2 \\
+0 & 0 & 1 & 5
+\end{bmatrix}
+$$
 
 ## Connections
 

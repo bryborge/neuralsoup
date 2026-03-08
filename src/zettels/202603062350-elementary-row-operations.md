@@ -14,17 +14,13 @@ type: concept
 
 > The elementary row operations are specific mathematical operations used to put a matrix in its [[202603050054-row-echelon-form|row echelon form]].
 
-1. Row Addition (Replacement): 
-2. Row Swap (Interchange): 
-3. Row Scaling (Multiplication): 
+1. [[202603072244-row-addition|Row Addition (Replacement)]]: Add a multiple of one row to another row and replacing it.
+2. [[202603072244-row-swap|Row Swap (Interchange)]]: Switching two rows in a matrix.
+3. [[202603072244-row-scaling|Row Scaling (Multiplication)]]: Multiply all entries in a row by a nonzero constant.
 
 ## Explanation
 
-A brief paragraph expanding on the nuances. What are the key properties? Who originated it? Keep it highly concise. If using an equation or formula, place it here.
-
-## Example
-
-- Provide one concrete, real-world example or application of the concept.
+Each of these operations are reversible.  In other words, executing any of these operations changes nothing about the system's solution.
 
 ## Connections
 

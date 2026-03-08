@@ -22,6 +22,10 @@ This course was taken at [Portland Community College (PCC)](https://www.pcc.edu/
 - [[202603062031-augmented-matrix|Augmented Matrix]] - A coefficient matrix with the column vector of constants.
 - [[202603061536-solution-set|Solution Set]] - All possible solutions for a linear system as a set.
 - [[202603062330-row-equivalent-matrices|Row Equivalent Matrices]] - Two matrices with the same reduced-row echelon form.
+- [[202603062350-elementary-row-operations|Elementary Row Operations]] - Reversible operations that can be executed on a matrix.
+	- [[202603072244-row-addition|Row Addition]] - Add a multiple of one row to (and replacing) another row.
+	- [[202603072244-row-swap|Row Swap]] - Switching any two row's positions.
+	- [[202603072244-row-scaling|Row Scaling]] - Multiplying all entries in a row by a constant.
 - [[202603050054-row-echelon-form|Row Echelon Form]] - A staircase-like matrix structure used to solve linear systems of equations.
 - [[202603062340-reduced-row-echelon-form|Reduced Row Echelon Form]] - A unique form of a matrix used to directly solve linear systems of equations.
 
