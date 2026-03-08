@@ -1,14 +1,14 @@
 ---
-id: 202603052332
-title: Passive Devices
+id: 202603080003
+title: Passive Device
 status: draft
 sources:
 tags:
-  - circuits
   - electrical-engineering
+  - circuits
 type: concept
 ---
-# Passive Devices
+# Passive Device
 
 ## Core Concept
 
@@ -16,14 +16,18 @@ type: concept
 
 ## Explanation
 
-<!-- TBD -->
+This type of device does not increase signal gain, does not require external power, and either consumes, stores, or dissipates energy.
 
 ## Example
 
-<!-- TBD -->
+- Resistors
+- Capacitors
+- Inductors
+- Fuses
+- Transformers
 
 ## Connections
 
 - **Up:** [[202603051807-electrical-circuits-i|Electrical Circuits I (MOC)]]
 - **Related:**
-- **Contrasts with:**
+- **Contrasts with:** [[202603080003-active-device|Active Device]]
