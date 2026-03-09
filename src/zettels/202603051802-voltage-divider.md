@@ -40,11 +40,7 @@ $$
 
 ## Explanation
 
-The system works by placing two resistors ($R_1$ and $R_2$) in series. The output voltage ($V_{out}$) is then measured between $R_1$ and $R_2$.
-
-## Example
-
-<!-- TBD -->
+The system works by placing two resistors ($R_1$ and $R_2$) [[202603082330-series-circuit|in series]]. The output voltage ($V_{out}$) is then measured between $R_1$ and $R_2$.
 
 ## Connections
 
