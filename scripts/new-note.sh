@@ -36,6 +36,8 @@ elif [[ "$TYPE" == "source" ]]; then
   DEST_DIR="src/sources"
 elif [[ "$TYPE" == "moc" ]]; then
   DEST_DIR="src/mocs"
+elif [[ "$TYPE" == "project" ]]; then
+  DEST_DIR="src/projects"
 else
   DEST_DIR="src/zettels"
 fi
