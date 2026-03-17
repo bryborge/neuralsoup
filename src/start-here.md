@@ -14,7 +14,6 @@
 
 - (PCC) - ENGR114 - [[202603070006-engineering-programming|Engineering Programming]]
 - (PCC) - ENGR221 - [[202603051807-electrical-circuits-i|Electrical Circuits I]]
-- (PCC) - ENGR222 - [[202603062358-electrical-circuits-ii|Electrical Circuits II]]
 
 #### Mathematics
 
@@ -32,15 +31,20 @@ Some of these might never see the light of day, but I still need somewhere to pu
 
 ##### Astromech
 
-- Mouse Droid
-- [[202603171208-astromech-r2d2|R2D2]]
+- [[202603171223-astromech-mse-6|MSE-6]] - The Imperial "Mouse Droid"
+- [[202603171208-astromech-r2d2|R2D2]] - The most beloved robot in the galaxy
+
+##### Self-Hosted
+
+- [[202603171247-self-hosted-cinema-service|Cinema Service]] - A place to study the cinematic arts from anywhere.
+- Music Service - A place to enjoy music from anywhere.
+- Audiobook Service - A place to listen to audiobooks from anywhere.
+- File Sync Service - A file sharing and backup solution for friends and family.
+- Smart Home Service - A central place to manage home automation.
 
 ##### Infrastructure
 
 - Server Rack
-	- AI (Server)
-	- Movie / Show / Entertainment Streaming (Server)
-	- Music Streaming (Server)
 - IT
 	- Documentation of IT infrastructure
 	- Asset Inventory / Bookkeeping system

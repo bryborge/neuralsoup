@@ -8,19 +8,21 @@ type: project
 ---
 # {{title}}
 
-## What
+## Project Brief
+
+### What
 
 
 
-## Why
+### Why
 
 
 
-## How
+### How
 
 
 
-## Documentation
+## Resources
 
 
 
