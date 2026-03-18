@@ -14,6 +14,7 @@
 
 - (PCC) - ENGR114 - [[202603070006-engineering-programming|Engineering Programming]]
 - (PCC) - ENGR221 - [[202603051807-electrical-circuits-i|Electrical Circuits I]]
+- (PSU) - ECE171 - Digital Circuits
 
 #### Mathematics
 

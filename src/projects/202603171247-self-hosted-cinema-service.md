@@ -2,7 +2,6 @@
 id: 202603171247
 title: Self-Hosted - Cinema Service
 status: draft
-sources:
 tags:
 type: project
 ---
